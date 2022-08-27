@@ -1,0 +1,40 @@
+body{
+    background-color: burlywood;
+    font-family:'Roboto';
+}
+
+form label{
+    font-family: 'Roboto';
+}
+
+div ul li{
+    text-align: center;
+    display: inline-block;
+    margin-top: 400px;
+    padding:50px;
+}
+
+div ul{
+    text-align: center;
+    ;
+}
+
+
+#signUpButton{
+    width:300px;
+    height:100px;
+    border-radius: 100px;
+    background-color: black;
+    color: burlywood;
+
+}
+
+#signInButton{
+    width:300px;
+    height:100px;
+    border-radius: 100px;
+    background-color: black;
+    color: burlywood;
+
+
+}

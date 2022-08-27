@@ -1,0 +1,71 @@
+body{
+    background-color: burlywood;
+    font-family: 'Roboto';
+}
+
+
+
+#emailLabel{
+    font-family:'Roboto';
+
+}
+
+#passwordLabel{
+    font-family:'Roboto'
+}
+
+div{
+    text-align: center;
+}
+
+#form{
+    text-align: center;
+    margin-top: 300px;
+   
+}
+
+#form img{
+    background: transparent;
+    border-radius: 100px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+#img{
+    width:80px;
+    height:80px;
+    background: transparent;
+}
+
+#email{
+    
+    display:block;
+    margin: auto;
+    margin-bottom: 50px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid;
+    padding:10px 30px;
+
+}
+
+#password{
+    
+    display:block;
+    margin: auto;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid;
+    padding:10px 30px;
+   
+}
+
+#submitButton{
+    width:300px;
+    height:50px;
+    border-radius: 100px;
+    background-color: black;
+    color: burlywood;
+    margin-top: 50px;
+}
